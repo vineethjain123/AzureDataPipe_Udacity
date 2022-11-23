@@ -1,0 +1,17 @@
+{
+	"name": "nycpayrolladfvj",
+	"properties": {
+		"globalParameters": {
+			"Year": {
+				"type": "int",
+				"value": 2021
+			}
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "17a68929-6739-41d4-913f-b2934b79b1e4",
+		"tenantId": "c4b5b4ca-b29c-4b50-a3aa-ff2fba55e9bd"
+	}
+}
