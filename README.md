@@ -9,3 +9,6 @@ Make the data available to the interested public to show how the City’s budget
 You have been hired as a Data Engineer to create high-quality data pipelines that are dynamic, can be automated, and monitored for efficient operation. The project team also includes the city’s quality assurance experts who will test the pipelines to find any errors and improve overall data quality.
 
 The source data resides in Azure Data Lake and needs to be processed in a NYC data warehouse in Azure Synapse Analytics. The source datasets consist of CSV files with Employee master data and monthly payroll data entered by various City agencies.
+
+# How project was delivered:
+We have used Azure components Azure Data Factory V2, Azure Synapse Analytics, Azure SQL DB & Azure Data Lake Storage.
